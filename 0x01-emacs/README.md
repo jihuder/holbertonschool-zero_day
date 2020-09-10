@@ -1,1 +1,0 @@
-This part of the project is about the Emacs text editor.
